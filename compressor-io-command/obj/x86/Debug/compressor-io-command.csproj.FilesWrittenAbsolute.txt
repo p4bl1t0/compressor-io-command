@@ -1,0 +1,7 @@
+/home/p4bl1t0/Develop/compressor-io-command/compressor-io-command/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/p4bl1t0/Develop/compressor-io-command/compressor-io-command/bin/Debug/compressor-io-command.exe.mdb
+/home/p4bl1t0/Develop/compressor-io-command/compressor-io-command/bin/Debug/compressor-io-command.exe
+/home/p4bl1t0/Develop/compressor-io-command/compressor-io-command/obj/x86/Debug/compressor-io-command.exe
+/home/p4bl1t0/Develop/compressor-io-command/compressor-io-command/obj/x86/Debug/compressor-io-command.exe.mdb
+/home/p4bl1t0/Develop/compressor-io-command/compressor-io-command/bin/Debug/Newtonsoft.Json.dll
+/home/p4bl1t0/Develop/compressor-io-command/compressor-io-command/bin/Debug/System.Net.Http.Formatting.dll
